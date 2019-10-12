@@ -1,0 +1,22 @@
+{
+  "name": "escolar-transparente",
+  "version": "1.0.0",
+  "description": "Projeto de desenvolvimento da ideia escolar transparente.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "escolar",
+    "transparente",
+    "transporte"
+  ],
+  "author": "Bárbara Carrijo",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "sequelize": "^5.19.6",
+    "sqlite3": "^4.1.0"
+  }
+}
