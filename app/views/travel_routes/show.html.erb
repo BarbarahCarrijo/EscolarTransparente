@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Depparture:</strong>
+  <%= @travel_route.depparture %>
+</p>
+
+<p>
+  <strong>Arrival:</strong>
+  <%= @travel_route.arrival %>
+</p>
+
+<p>
+  <strong>Driver:</strong>
+  <%= @travel_route.driver_id %>
+</p>
+
+<%= link_to 'Edit', edit_travel_route_path(@travel_route) %> |
+<%= link_to 'Back', travel_routes_path %>

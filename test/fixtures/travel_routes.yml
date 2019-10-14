@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  depparture: MyString
+  arrival: MyString
+  driver: one
+
+two:
+  depparture: MyString
+  arrival: MyString
+  driver: two
