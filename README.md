@@ -1,11 +1,19 @@
-# README
+# IDEAL BUS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Através desta documentação são listadas as etapas necessárias para realizar a instalação das dependências e executar a aplicação.
 
-Things you may want to cover:
-
-* Ruby version
+Vamos aos requisitos:
+ .
+ .
+ .
+ .
+ continua
+ .
+ .
+ .
+ .
+ 
+* Ruby version: 2.6.4
 
 * System dependencies
 
